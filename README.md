@@ -2,6 +2,6 @@
 
 Hello, GitHub!
 
-third commit
-
 Farewell
+
+Bye!
